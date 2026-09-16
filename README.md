@@ -13,31 +13,16 @@
 
 ## ❤️赞助商
 
-<div align="center">
-
-[![FastAIToken](static/sponsors/fastaitoken-banner.png)](https://www.fastaitoken.com/register)
-
-</div>
-
-**FastAIToken** 是面向开发者的 AI API 聚合平台，支持 OpenAI、Claude、Gemini 等主流大模型，兼容 OpenAI API 协议，可无缝接入 **Claude Code、Codex、Gemini CLI、Cherry Studio、Cline、Continue** 等各类 AI 开发工具。平台采用 **充值 1:1（1 元 = 1 美元 API 额度）**，帮助开发者以更低成本、更高效率地使用全球领先的大模型服务。
-
-平台提供多个可选分组与公开状态页，开发者可根据成本、响应速度和稳定性自由选择不同渠道，并享受 **7×24 小时真人技术支持**（非机器人）。
-
-**主要做 AI 开发接入？可以试试 [FastAIToken](https://www.fastaitoken.com/register)，兼容 Codex / Claude Code / Gemini CLI 等主流工具。**
-
----
-
 <table>
 <tr>
 <td width="180" align="center" valign="middle">
-  <a href="https://www.fastaitoken.com/register">
-    <img src="static/sponsors/fastaitoken-logo.png" alt="FastAIToken" width="150">
+  <a href="https://go.apimart.ai/gh-flow2api">
+    <img src="static/sponsors/apimart-banner.jpg" alt="APIMart" width="150">
   </a>
 </td>
 <td valign="top">
-  感谢 <strong>FastAIToken</strong> 赞助了本项目！FastAIToken 是面向开发者的 AI API 聚合平台，兼容 OpenAI API 协议，支持 Claude Code、Codex、Gemini CLI、Cherry Studio、Cline、Continue 等主流 AI 开发工具。<br><br>
-  当前提供 <strong>0.02x OpenAI 福利分组（限时）</strong>、<strong>0.25x OpenAI 普通分组</strong>、<strong>0.35x OpenAI 备用分组</strong>、<strong>0.45x OpenAI Pro 分组</strong>、<strong>0.7x Claude 普通分组</strong>、<strong>1.2x Claude Max 渠道</strong>；支持 <strong>1 元 = 1 美元 API 额度</strong> 的充值比例，并提供公开状态页、企业开票、<strong>99% SLA 企业级稳定号池</strong> 与 <strong>7×24 小时真人技术支持</strong>。<br><br>
-  欢迎通过<a href="https://www.fastaitoken.com/register">此链接</a>注册体验。
+  感谢 <strong>APIMart</strong> 赞助了本项目！APIMart 是专注 AI 图片/视频生成的低价 API 平台，GPT-Image-2 低至 \$0.006/张，1 美元可出图 160+ 张。图片、视频一套异步 API 通吃，提交任务拿 ID、回调取结果，跑批万张不超时、换模型不改代码。按量付费、无月费，通过<a href="https://go.apimart.ai/gh-flow2api">此注册链接</a>注册即可开用。<br><br>
+  Thanks to <strong>APIMart</strong> for sponsoring this project! APIMart is a low-cost API platform for AI image &amp; video generation — GPT-Image-2 from \$0.006/image, 160+ images per dollar. One async API covers both image and video: submit a task, get an ID, fetch results via polling or callback. Batch tens of thousands of images without timeouts, switch models without changing code. Pay-as-you-go with no monthly fee — <a href="https://go.apimart.ai/gh-flow2api">sign up here</a> to get started.
 </td>
 </tr>
 </table>
@@ -580,5 +565,4 @@ curl -X POST "http://localhost:8000/v1/chat/completions" \
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=TheSmallHanCat/flow2api&type=date&legend=top-left)](https://www.star-history.com/#TheSmallHanCat/flow2api&type=date&legend=top-left)
-
+[![Star History Chart](https://star-history.dera.page/svg?repos=TheSmallHanCat/flow2api&type=date&legend=top-left)](https://star-history.dera.page/#TheSmallHanCat/flow2api&type=date&legend=top-left)
